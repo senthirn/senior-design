@@ -2,7 +2,7 @@
 
 ## Project Overview
 **Total Phases**: 5  
-**Total Duration**: 7 weeks  
+**Total Duration**: 7 weeks (Development) - 1 Semester (Planning) 
 **Total Tasks**: 27
 
 ---
@@ -14,7 +14,7 @@
   - Define user stories
   - Create design diagrams (D0, D1, D2)
   - Document technical requirements
-- **Duration**: 2 days
+- **Duration**: 8 Weeks 
 - **Assignee**: Team Lead
 
 ---
@@ -24,7 +24,7 @@
   - Choose frameworks and tools
   - Set up development environment
   - Create project repository
-- **Duration**: 1 day
+- **Duration**: 1 Week
 - **Assignee**: Full Stack Developer
 
 ---
@@ -33,8 +33,8 @@
 - **Description**: 
   - Design tables and relationships
   - Define PostGIS geospatial requirements
-  - Create ERD (Entity Relationship Diagram)
-- **Duration**: 2 days
+  - Create ERD 
+- **Duration**: 3-4 Weeks
 - **Assignee**: Backend Developer
 
 ---
@@ -303,7 +303,7 @@
 
 | Phase | Tasks | Duration | Team Members |
 |-------|-------|----------|--------------|
-| Phase 1: Planning | 3 | 5 days | Team Lead, Full Stack Dev, Backend Dev |
+| Phase 1: Planning | 3 | 1 Sem | Team Lead, Full Stack Dev, Backend Dev |
 | Phase 2: Backend | 7 | 10 days | Backend Developer |
 | Phase 3: Frontend | 9 | 10 days | Frontend Developer |
 | Phase 4: Integration | 3 | 5 days | Full Stack Developer, QA |
