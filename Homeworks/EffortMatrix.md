@@ -4,12 +4,12 @@
 
 | Phase | Backend Hours | Frontend Hours | Integration Hours | Testing Hours | Documentation Hours | Total Hours |
 |-------|---------------|----------------|-------------------|---------------|---------------------|-------------|
-| Phase 1: Planning & Setup | 8 | 4 | 0 | 0 | 16 | 28 |
+| Phase 1: Planning & Setup | 8 (weeks) | 4 (weeks) | 0 | 0 | 2 (weeks) | 14 (weeks) |
 | Phase 2: Backend Development | 80 | 0 | 0 | 10 | 10 | 100 |
 | Phase 3: Frontend Development | 0 | 80 | 0 | 10 | 5 | 95 |
 | Phase 4: Integration & Testing | 10 | 10 | 20 | 20 | 5 | 65 |
 | Phase 5: Deployment | 12 | 8 | 8 | 10 | 12 | 50 |
-| **TOTAL** | **110** | **102** | **28** | **50** | **48** | **338** |
+| **TOTAL** | **110** | **102** | **28** | **50** | **48** | **310** |
 
 ---
 
