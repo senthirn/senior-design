@@ -4,6 +4,8 @@
 
 **Advisor**: Professor Nitin
 
+**As of right now, no costs have been incurred. All free trials/services have been utilized.**
+
 ## Overview
 
 MealMatch is a web-based platform designed to address food insecurity by connecting individuals in need with affordable meals, restaurant deals, and shelter services in their community. The platform serves as a bridge between three key user groups: individuals seeking assistance, restaurants offering discounted or free meals, and shelters providing meals and housing services.
