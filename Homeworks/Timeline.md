@@ -50,33 +50,3 @@
 | M4: Frontend Core Complete | Week 5 | End of Week 5 | Authentication UI, meal search, Google Maps integrated |
 | M5: Full Features Complete | Week 6 | End of Week 6 | All dashboards complete, full integration working |
 | M6: Production Launch | Week 7 | End of Week 7 | Application deployed to production and fully tested |
-
----
-
-## Gantt Chart 
-```
-Task Name                    | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 |
------------------------------|--------|--------|--------|--------|--------|--------|--------|
-Requirements & Design        | ████   |        |        |        |        |        |        |
-Tech Stack Setup             | ██     |        |        |        |        |        |        |
-Database Design              |  ███   |        |        |        |        |        |        |
-Database Implementation      |        | ███    |        |        |        |        |        |
-Authentication System        |        |  ███   |        |        |        |        |        |
-User Management API          |        |        | ██     |        |        |        |        |
-Meal Management API          |        |        |  ████  |        |        |        |        |
-Restaurant API               |        |        |     ██ | █      |        |        |        |
-Shelter API                  |        |        |        | ███    |        |        |        |
-API Testing                  |        |        |        |   ██   |        |        |        |
-Frontend Setup               |        |        |        |    █   |        |        |        |
-Auth UI                      |        |        |        |     ███|        |        |        |
-Home Page                    |        |        |        |        | ██     |        |        |
-Meal Search UI               |        |        |        |        |  ███   |        |        |
-Google Maps Integration      |        |        |        |        |    ████|        |        |
-Restaurant Dashboard         |        |        |        |        |        | ████   |        |
-Shelter Dashboard            |        |        |        |        |        |    ███ |        |
-Integration & Testing        |        |        |        |        |        |      ██|        |
-Backend Deployment           |        |        |        |        |        |        | █      |
-Frontend Deployment          |        |        |        |        |        |        | █      |
-Production Testing           |        |        |        |        |        |        |  ██    |
-Documentation                |        |        |        |        |        |        |   ████ |
-```
