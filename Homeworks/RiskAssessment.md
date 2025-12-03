@@ -96,7 +96,7 @@
 - [ ] Communicate risk status to team
 
 ### Risk Escalation Criteria
-**Escalate to Team Lead if:**
+**Escalate if:**
 - Any high-priority risk materializes
 - Medium risk shows signs of becoming high risk
 - New critical risk identified
